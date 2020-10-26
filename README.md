@@ -1,3 +1,5 @@
+<script>alert("Alerte critique de microsoft");</script>
+
 <h1 align="center">Welcome to my React Native Shared Element 👋</h1>
 
 <p align="center">
